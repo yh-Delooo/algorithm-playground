@@ -77,3 +77,4 @@ Current topics: embedding, vector search, anomaly detection.
 ## 📄 License
 
 Personal learning repository. Code shared for portfolio purposes — please ask before reuse.
+# Last verified: 2026-07-24
